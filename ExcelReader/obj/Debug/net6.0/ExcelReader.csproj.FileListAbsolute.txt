@@ -1,0 +1,17 @@
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.exe
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.deps.json
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.runtimeconfig.json
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\ExcelReader.pdb
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.AssemblyReference.cache
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.AssemblyInfoInputs.cache
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.AssemblyInfo.cs
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.CoreCompileInputs.cache
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\refint\ExcelReader.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.pdb
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.genruntimeconfig.cache
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ref\ExcelReader.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.ResolveComReference.cache
