@@ -15,3 +15,6 @@ D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.genrunt
 D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ref\ExcelReader.dll
 D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
 D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.ResolveComReference.cache
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Intalio-Projects\ExcelReader\ExcelReader\obj\Debug\net6.0\ExcelReader.csproj.CopyComplete

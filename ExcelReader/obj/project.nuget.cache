@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vFNobjkeK3BAKCb+VO3sSHpeSQVCpevjtVd+CWyZyhQL/Pf0JBiq+Bo0pHbTYCw4UVhy1UZUaaeHQzfmhKhBkQ==",
+  "dgSpecHash": "2XloJ5Yifv3V16XRxzUH5fxPRumJC9Ljg9sAFrxYuJPhelZJ7umgN/0SUEtvcMqabZWqgpYIDMQ40YQRXVxLVQ==",
   "success": true,
   "projectFilePath": "D:\\Intalio-Projects\\ExcelReader\\ExcelReader\\ExcelReader.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\feron\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\feron\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -25,9 +25,18 @@ for (int i = 1; i <= rows; i++)
     for (int j = 1; j <= cols; j++)
     {
         ExcelApp.Range cell = excelRange.Cells[i, j];
-        if (cell.HasFormula)
+        // text takes value as is "String"
+        // Value and Value2 is almost the same but Value2 would convert to
+        // date for example if found the right pattern
+
+        if (cell.HasFormula && cell.Formula == "=SUM(C2:C4)")
         {
-            Console.Write("cell has Formula: " + cell.Formula + "\t");
+            Console.WriteLine("cell.Value.ToString() was: " + cell.Value);
+
+            cell.Formula = "=AVERAGE(C2: C4)";
+            excelBook.Save();
+            //cell.Formula => SUM(C2:C4)=91, AVERAGE(C2:C4)=30.33333
+            Console.Write("cell has Formula after: " + cell.Formula + " " + cell.Value2.ToString() + "\t");
         }
         else
         {
